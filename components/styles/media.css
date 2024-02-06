@@ -71,6 +71,14 @@
     h2 {
         font-size: 2em;
     }
+
+    aside {
+        padding: 0 10px;
+    }
+
+    aside form {
+        width: 90%;
+    }
 }
 
 @media screen and (max-width: 412px) {
