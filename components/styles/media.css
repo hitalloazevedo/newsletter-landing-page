@@ -101,4 +101,13 @@
     h2 {
         font-size: 1.8em;
     }
+
+    form {
+        width: 90%;
+        align-items: center;
+    }
+
+    input[type="submit"] {
+        width: 100%;
+    }
 }
